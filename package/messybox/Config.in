@@ -1,0 +1,7 @@
+config BR2_PACKAGE_MESSYBOX
+	bool "messybox"
+	default y
+	help
+	  The Swiss Army Knife for my board.
+
+	  https://github.com/masahir0y/messybox

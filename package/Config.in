@@ -495,6 +495,7 @@ endmenu
 	source "package/mdevd/Config.in"
 	source "package/memtest86/Config.in"
 	source "package/memtester/Config.in"
+	source "package/messybox/Config.in"
 	source "package/memtool/Config.in"
 	source "package/minicom/Config.in"
 	source "package/msr-tools/Config.in"
